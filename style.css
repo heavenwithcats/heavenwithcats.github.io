@@ -1,0 +1,16 @@
+*{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    background-color: #CCDBDC;
+    color: #003249; 
+}
+img {
+    border: solid 5px #007EA7;
+}
+li {
+list-style-type: ♡;
+}
+@media only screen and (max-width: 480px){
+    li{
+    list-style-type: ☯;
+    }
+}
